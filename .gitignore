@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# openapi typing
+wallet_warden_api_openapi_doc.yml
+api_schema.yaml
+/src/api/.openapi-generator/
+/src/api/.gitignore
+/src/api/.*
+/src/api/git_push.sh
+
